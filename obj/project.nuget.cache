@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GsAIm/bQyAA=",
+  "dgSpecHash": "q3wCMQjUSvY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\gabri\\NuevoPortFolio\\Academy\\Backend\\ContactApi\\ContactApi.csproj",
+  "projectFilePath": "C:\\Users\\gabri\\Projects\\academy-Back\\ContactApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gabri\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\gabri\\.nuget\\packages\\microsoft.aspnetcore.antiforgery\\2.3.0\\microsoft.aspnetcore.antiforgery.2.3.0.nupkg.sha512",

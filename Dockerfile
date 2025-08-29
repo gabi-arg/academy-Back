@@ -21,7 +21,7 @@ RUN mkdir -p /app/data
 COPY --from=build /app/publish ./
 
 # (Opcional) si quieres incluir la DB inicial que está en el repo:
-# COPY academy.db /app/data/academy.db
+COPY academy.db /app/academy.db
 
 # Configuraciones
 ENV ASPNETCORE_URLS=http://+:80
